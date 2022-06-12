@@ -13,6 +13,7 @@ html {
 }
 
 body {
+  width: 100vw;
   display: flex;
   /* justify-content: center; */
   flex-direction: column;
@@ -161,6 +162,7 @@ main {
   background-color: black;
   padding: 0px;
   margin: 0px;
+  border-radius: 20% 10%;
 }
 
 #contact {
